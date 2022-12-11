@@ -7,7 +7,7 @@
   "dependencies": {
     "@tensorflow/tfjs": "^1.2.7",
     "@types/express": "^4.17.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "node": "^12.8.1",
     "typescript": "^3.5.3"
   },
